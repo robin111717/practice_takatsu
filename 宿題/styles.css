@@ -1,0 +1,59 @@
+html {
+  background-color:lightblue;
+  font-family: Verdana;
+  font-size: 20px;
+}
+
+div.left {
+  height: 1000px;
+  width: 750px;
+  margin: auto;
+  float: left;
+}
+
+div.left h1 {
+  font-size: 30px;
+  padding: 10px 75px;
+}
+
+div.left p {
+  color: yellow;
+}
+
+div.right {
+  height: 1000px;
+  max-width: 750px;
+  margin: auto;
+  float: right;
+}
+
+div.right p{
+  color: yellow;
+  padding: 25px;
+}
+
+div.right h1 {
+  color: red;
+
+}
+
+footer {
+  margin: 0;
+  height: 1200px;
+  float: center;
+}
+
+footer h1 {
+  padding: 0 36%;
+}
+
+footer p {
+  font-size: 16.5px;
+  color: yellow;
+}
+
+footer table tr, th, td {
+  border: 1px solid black;
+
+}
+
